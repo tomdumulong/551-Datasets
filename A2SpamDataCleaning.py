@@ -56,6 +56,8 @@ for feature in features_names:
 # 4. Leave all possible outliers in place. Yes, this feels counterintuitive -> more explanations in the report.
 
 # CONCLUSION FOR DATA PREPROCESSING:
-# dataset_551_A2 is approved for assignment usage. We next need to split with a 5/95 ratio (5% train, 95% test),
-# and normalize the data.
+# dataset_551_A2 is approved for assignment usage. 
+
+# STEP 3 OF 3: SPLIT + NORMALIZATION
+# We next need to split with a 5/95 ratio (5% train, 95% test), and normalize the data.
 # Those steps were however put directly in the notebook for simplicity.
